@@ -2,6 +2,7 @@
 # Simplest selinum automation script without the need to scan QR each time
 Automate sending messages to list with Web Whatsapp
 
+# Disclaimer : This is for educational and lazy sending information to multiple users at a time, Using this for unsolicited messaging will get you banned.
 
 # Setup Instructions for Ubuntu (Use python3)
 
