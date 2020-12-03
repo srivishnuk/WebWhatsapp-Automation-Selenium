@@ -13,9 +13,9 @@ Download chrome driver for your chrome version from https://chromedriver.chromiu
 
 # create contacts.csv inside whatsappautomation folder, in below format
 
-9199999XXXXX,this is new message
-4442311XXXXX,not the first message
-3489234XXXXX,this message is different
+9199999XXXXX,this is new message</br>
+4442311XXXXX,not the first message</br>
+3489234XXXXX,this message is different</br>
 
 # Finally run whatsapp.py and scan QR code once, Take note on sleep time in code comments if you have slow internet
 
