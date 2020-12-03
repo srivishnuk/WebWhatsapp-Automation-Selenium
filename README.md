@@ -3,7 +3,7 @@
 Automate sending messages to list with Web Whatsapp
 
 
-# Setup Instructions for Ubuntu (I am using 18.04)
+# Setup Instructions for Ubuntu (Use python3)
 
 Download chrome driver for your chrome version from https://chromedriver.chromium.org/downloads and extract it to /usr/bin/
 
