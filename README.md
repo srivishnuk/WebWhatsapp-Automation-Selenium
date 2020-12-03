@@ -5,6 +5,7 @@ Automate sending messages to list with Web Whatsapp
 
 # Setup Instructions for Ubuntu (Use python3)
 
+make sure you have google chrome installed and
 Download chrome driver for your chrome version from https://chromedriver.chromium.org/downloads and extract it to /usr/bin/
 
 1. virtualenv whatsappautomation -p python3
@@ -19,6 +20,6 @@ Download chrome driver for your chrome version from https://chromedriver.chromiu
 
 # Finally run whatsapp.py and scan QR code once, Take note on sleep time in code comments if you have slow internet
 
-You can reach me on https://srivishnu.me
+You can reach me at https://srivishnu.me
 
 
