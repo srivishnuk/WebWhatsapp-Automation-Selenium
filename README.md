@@ -1,3 +1,5 @@
+# Buy cheap compute for non critical workloads at https://wholesalevps.com/ for just $5.5 for 6GB RAM and 100GB NVMe
+
 # WebWhatsapp-Automation-Selenium
 # Simplest selinum automation script without the need to scan QR each time
 Automate sending messages to list with Web Whatsapp
